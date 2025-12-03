@@ -82,7 +82,7 @@ width: 100%;
   position: fixed;
   z-index: 50;
   background: transparent;
-  padding: 1.5rem;
+  padding: 1rem;
 	top: 0;
 	left: 0;
 	right: 0;
@@ -515,10 +515,9 @@ font-size: 32px;
   position: absolute;
   background: var(--color-secondary);
   top: -270px;
-  right: -59px;
+  right: -58px;
   border-radius: 10px;
   box-shadow: 0 5px 18px rgba(0,0,0,0.3);
-  margin-top: 8px;
   /* ✨ Quitamos el margin-top que creaba el espacio */
   width: 100%; /* asegura que ocupe todo el ancho del selector */
   overflow: hidden;
